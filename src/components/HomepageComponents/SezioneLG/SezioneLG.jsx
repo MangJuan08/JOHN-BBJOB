@@ -71,10 +71,79 @@ function SezioneLG() {
             <hr></hr>
             <div className="row">
                 <div className="col-lg-6">
-
+                    <div className="row">
+                        <div className="col-lg-6">
+                            <strong>Il nostro prodotto</strong> è fortissimo
+                            </div>
+                        <div className="col-lg-6"> <img
+                            src="https:\\image.shutterstock.com/image-photo/wind-turbine-asian-mechanical-engineer-260nw-1414882847.jpg"
+                            id="prodotto-fortissimo-1" class="prodotto-fortissimo" alt="" />
+                        </div>
+                    </div>
+                    <div className="row">
+                        <div className="col-lg-12"> <img
+                            src="https://image.shutterstock.com/image-photo/landscape-wind-turbines-that-produce-600w-1529737649.jpg"
+                            id="prodotto-fortissimo-2" class="prodotto-fortissimo" alt="" />
+                        </div>
+                    </div>
+                    <div className="row">
+                        <div className="col-lg-12">
+                            <p>PROGETTI <strong>"SU MISURA"</strong>
+                            </p>
+                            <p>La possibilità di
+                            customizzazione del prodotto ci
+                            rende i partner ideali per studi
+                            di progettazione che richiedono
+                            una forte personalizzazione dle
+                        prodotto!</p>
+                        </div>
+                    </div>
                 </div>
                 <div className="col-lg-6">
-                    <img src="https://image.shutterstock.com\/image-photo\/wind-turbine-asian-mechanical-engineer-260nw-1414882847.jpg" id="prodotto-fortissimo-1" class="prodotto-fortissimo" alt="" />
+                    <div className="row">
+                        <div className="colo-lg-12">
+                            <p>PRODUTTORI
+                            AL
+                    <strong>100%
+                    </strong>
+
+                            </p>
+
+                            <p>Progettando
+                            e
+                            realizzando
+                            i
+                            nostri
+                            prodotti
+                            garantiamo
+                            standard
+                            elevati
+                            e
+                    <strong>garanzia
+                                di
+                                qualit\u00E0
+                    </strong>
+                    .
+                </p>
+                            <p>Uno
+                    <strong>standard
+                                elevato
+                    </strong>
+                    sotto
+                    tutti
+                    i
+                    punti
+                    di
+                    vista
+                </p>
+                        </div>
+                    </div>
+                    <div className="row">
+                        <div className="col-lg-12">
+                            <img src="https:\\image.shutterstock.com/image-photo/greek-wind-park-on-snowed-260nw-1654044058.jpg"
+                                id="prodotto-fortissimo-3" class="prodotto-fortissimo" alt="" />
+                        </div>
+                    </div>
                 </div>
             </div>
             <div className="row">
