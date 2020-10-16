@@ -1,0 +1,16 @@
+[
+    {
+        "url": "https://image.shutterstock.com/image-illustration/wooden-pedestal-displayplatform-designblank-product-600w-1052121983.jpg",
+        "title": "Prodotto 1",
+        "description": "Descrizione del prodotto 1",
+        "caption": "",
+        "idImage": 1
+    },
+    {
+        "url": "https://image.shutterstock.com/image-illustration/wooden-pedestal-displayplatform-designblank-product-600w-1052121983.jpg",
+        "title": "Prodotto 2",
+        "description": "Descrizione del prodotto 2",
+        "caption": "",
+        "idImage": 0
+    }
+]
